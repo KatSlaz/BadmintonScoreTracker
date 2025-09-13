@@ -1,0 +1,21 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*~
+
+# Ignore OS files (Windows)
+Thumbs.db
+Desktop.ini
+
+# Ignore IDE/project files (if using IntelliJ or Eclipse)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
